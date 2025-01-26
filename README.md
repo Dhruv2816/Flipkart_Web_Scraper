@@ -1,4 +1,4 @@
-# Flipkart Laptop Scraper
+# Flipkart Web Scraper
 
 ## Project Overview
 This project is a Python-based web scraper designed to extract details of laptops under ₹50,000 from the Flipkart website. It uses **Selenium** for browser automation and **BeautifulSoup** for parsing the webpage's HTML. The extracted data includes:
